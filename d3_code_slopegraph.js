@@ -10,7 +10,7 @@
         // input vars for getter setters
         var w = 1200,
             h = 1200,
-            margin = {top: 40, bottom: 3000, left: 10, right: 10},
+            margin = {top: 30, bottom: 3000, left: 10, right: 10},
             strokeColour = 'black',
             // key data values start for left(axis) and end for right(axis)
             keyValueStart = '',
