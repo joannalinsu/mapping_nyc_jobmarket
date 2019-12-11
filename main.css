@@ -140,7 +140,7 @@ rect {
 
 rect.parent,
 .grandparent rect {
-  stroke-width: 1px;
+  stroke-width: 2px;
 }
 
 rect.parent {
