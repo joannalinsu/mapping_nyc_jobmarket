@@ -1,0 +1,3254 @@
+[
+  {
+    "region": "Business",
+    "key": "Chief Executives",
+    "subregion": "Management  ",
+    "value": 4510
+  },
+  {
+    "region": "Business",
+    "key": "General and Operations Managers",
+    "subregion": "Management  ",
+    "value": 81950
+  },
+  {
+    "region": "Business",
+    "key": "Advertising and Promotions Managers",
+    "subregion": "Management  ",
+    "value": 6040
+  },
+  {
+    "region": "Business",
+    "key": "Marketing Managers",
+    "subregion": "Management  ",
+    "value": 12660
+  },
+  {
+    "region": "Business",
+    "key": "Sales Managers",
+    "subregion": "Management  ",
+    "value": 14290
+  },
+  {
+    "region": "Business",
+    "key": "Public Relations and Fundraising Managers",
+    "subregion": "Management  ",
+    "value": 4640
+  },
+  {
+    "region": "Business",
+    "key": "Administrative Services Managers",
+    "subregion": "Management  ",
+    "value": 10620
+  },
+  {
+    "region": "Business",
+    "key": "Computer and Information Systems Managers",
+    "subregion": "Management  ",
+    "value": 17820
+  },
+  {
+    "region": "Business",
+    "key": "Financial Managers",
+    "subregion": "Management  ",
+    "value": 29340
+  },
+  {
+    "region": "Business",
+    "key": "Industrial Production Managers",
+    "subregion": "Management  ",
+    "value": 1110
+  },
+  {
+    "region": "Business",
+    "key": "Purchasing Managers",
+    "subregion": "Management  ",
+    "value": 1960
+  },
+  {
+    "region": "Business",
+    "key": "Transportation, Storage, and Distribution Managers",
+    "subregion": "Management  ",
+    "value": 1580
+  },
+  {
+    "region": "Business",
+    "key": "Compensation and Benefits Managers",
+    "subregion": "Management  ",
+    "value": 1030
+  },
+  {
+    "region": "Business",
+    "key": "Human Resources Managers",
+    "subregion": "Management  ",
+    "value": 6640
+  },
+  {
+    "region": "Business",
+    "key": "Training and Development Managers",
+    "subregion": "Management  ",
+    "value": 1990
+  },
+  {
+    "region": "Business",
+    "key": "Construction Managers",
+    "subregion": "Management  ",
+    "value": 5990
+  },
+  {
+    "region": "Business",
+    "key": "Education Administrators, Preschool and Childcare Center/Program",
+    "subregion": "Management  ",
+    "value": 1950
+  },
+  {
+    "region": "Business",
+    "key": "Education Administrators, Elementary and Secondary School",
+    "subregion": "Management  ",
+    "value": 8760
+  },
+  {
+    "region": "Business",
+    "key": "Education Administrators, Postsecondary",
+    "subregion": "Management  ",
+    "value": 5750
+  },
+  {
+    "region": "Business",
+    "key": "Education Administrators, All Other",
+    "subregion": "Management  ",
+    "value": 1160
+  },
+  {
+    "region": "Business",
+    "key": "Architectural and Engineering Managers",
+    "subregion": "Management  ",
+    "value": 2570
+  },
+  {
+    "region": "Business",
+    "key": "Food Service Managers",
+    "subregion": "Management  ",
+    "value": 4030
+  },
+  {
+    "region": "Business",
+    "key": "Lodging Managers",
+    "subregion": "Management  ",
+    "value": 250
+  },
+  {
+    "region": "Business",
+    "key": "Medical and Health Services Managers",
+    "subregion": "Management  ",
+    "value": 12480
+  },
+  {
+    "region": "Business",
+    "key": "Natural Sciences Managers",
+    "subregion": "Management  ",
+    "value": 600
+  },
+  {
+    "region": "Business",
+    "key": "Property, Real Estate, and Community Association Managers",
+    "subregion": "Management  ",
+    "value": 6410
+  },
+  {
+    "region": "Business",
+    "key": "Social and Community Service Managers",
+    "subregion": "Management  ",
+    "value": 6110
+  },
+  {
+    "region": "Business",
+    "key": "Managers, All Other",
+    "subregion": "Management  ",
+    "value": 8840
+  },
+  {
+    "region": "Business",
+    "key": "Funeral Service Managers*, Emergency Management Directors*",
+    "subregion": "Management  ",
+    "value": 480
+  },
+  {
+    "region": "Business",
+    "key": "Agents and Business Managers of Artists, Performers, and Athletes",
+    "subregion": "Business and Financial Operations  ",
+    "value": 3040
+  },
+  {
+    "region": "Business",
+    "key": "Buyers and Purchasing Agents",
+    "subregion": "Business and Financial Operations  ",
+    "value": 9690
+  },
+  {
+    "region": "Business",
+    "key": "Claims Adjusters, Examiners, and Investigators",
+    "subregion": "Business and Financial Operations  ",
+    "value": 6550
+  },
+  {
+    "region": "Business",
+    "key": "Compliance Officers",
+    "subregion": "Business and Financial Operations  ",
+    "value": 9630
+  },
+  {
+    "region": "Business",
+    "key": "Cost Estimators",
+    "subregion": "Business and Financial Operations  ",
+    "value": 3320
+  },
+  {
+    "region": "Business",
+    "key": "Human Resources Specialists",
+    "subregion": "Business and Financial Operations  ",
+    "value": 25130
+  },
+  {
+    "region": "Business",
+    "key": "Labor Relations Specialists",
+    "subregion": "Business and Financial Operations  ",
+    "value": 3780
+  },
+  {
+    "region": "Business",
+    "key": "Logisticians",
+    "subregion": "Business and Financial Operations  ",
+    "value": 1510
+  },
+  {
+    "region": "Business",
+    "key": "Management Analysts",
+    "subregion": "Business and Financial Operations  ",
+    "value": 30880
+  },
+  {
+    "region": "Business",
+    "key": "Meeting, Convention, and Event Planners",
+    "subregion": "Business and Financial Operations  ",
+    "value": 6780
+  },
+  {
+    "region": "Business",
+    "key": "Fundraisers",
+    "subregion": "Business and Financial Operations  ",
+    "value": 4380
+  },
+  {
+    "region": "Business",
+    "key": "Compensation, Benefits, and Job Analysis Specialists",
+    "subregion": "Business and Financial Operations  ",
+    "value": 5170
+  },
+  {
+    "region": "Business",
+    "key": "Training and Development Specialists",
+    "subregion": "Business and Financial Operations  ",
+    "value": 11490
+  },
+  {
+    "region": "Business",
+    "key": "Market Research Analysts and Marketing Specialists",
+    "subregion": "Business and Financial Operations  ",
+    "value": 45040
+  },
+  {
+    "region": "Business",
+    "key": "Business Operations Specialists, All Other",
+    "subregion": "Business and Financial Operations  ",
+    "value": 16200
+  },
+  {
+    "region": "Business",
+    "key": "Accountants and Auditors",
+    "subregion": "Business and Financial Operations  ",
+    "value": 69010
+  },
+  {
+    "region": "Business",
+    "key": "Appraisers and Assessors of Real Estate*",
+    "subregion": "Business and Financial Operations  ",
+    "value": 720
+  },
+  {
+    "region": "Business",
+    "key": "Budget Analysts",
+    "subregion": "Business and Financial Operations  ",
+    "value": 1370
+  },
+  {
+    "region": "Business",
+    "key": "Credit Analysts",
+    "subregion": "Business and Financial Operations  ",
+    "value": 5190
+  },
+  {
+    "region": "Business",
+    "key": "Financial Analysts",
+    "subregion": "Business and Financial Operations  ",
+    "value": 45320
+  },
+  {
+    "region": "Business",
+    "key": "Personal Financial Advisors",
+    "subregion": "Business and Financial Operations  ",
+    "value": 20860
+  },
+  {
+    "region": "Business",
+    "key": "Insurance Underwriters",
+    "subregion": "Business and Financial Operations  ",
+    "value": 4100
+  },
+  {
+    "region": "Business",
+    "key": "Financial Examiners",
+    "subregion": "Business and Financial Operations  ",
+    "value": 7620
+  },
+  {
+    "region": "Business",
+    "key": "Credit Counselors",
+    "subregion": "Business and Financial Operations  ",
+    "value": 1580
+  },
+  {
+    "region": "Business",
+    "key": "Loan Officers",
+    "subregion": "Business and Financial Operations  ",
+    "value": 6120
+  },
+  {
+    "region": "Business",
+    "key": "Tax Examiners and Collectors, and Revenue Agents",
+    "subregion": "Business and Financial Operations  ",
+    "value": 1070
+  },
+  {
+    "region": "Business",
+    "key": "Tax Preparers",
+    "subregion": "Business and Financial Operations  ",
+    "value": 2560
+  },
+  {
+    "region": "Business",
+    "key": "Financial Specialists, All Other",
+    "subregion": "Business and Financial Operations  ",
+    "value": 3250
+  },
+  {
+    "region": "Business",
+    "key": "Computer and Information Research Scientists",
+    "subregion": "Computer and Mathematical  ",
+    "value": 860
+  },
+  {
+    "region": "Business",
+    "key": "Computer Systems Analysts",
+    "subregion": "Computer and Mathematical  ",
+    "value": 25910
+  },
+  {
+    "region": "Business",
+    "key": "Information Security Analysts",
+    "subregion": "Computer and Mathematical  ",
+    "value": 4240
+  },
+  {
+    "region": "Business",
+    "key": "Computer Programmers",
+    "subregion": "Computer and Mathematical  ",
+    "value": 6400
+  },
+  {
+    "region": "Business",
+    "key": "Software Developers, Applications",
+    "subregion": "Computer and Mathematical  ",
+    "value": 35150
+  },
+  {
+    "region": "Business",
+    "key": "Software Developers, Systems Software",
+    "subregion": "Computer and Mathematical  ",
+    "value": 9980
+  },
+  {
+    "region": "Business",
+    "key": "Web Developers",
+    "subregion": "Computer and Mathematical  ",
+    "value": 8550
+  },
+  {
+    "region": "Business",
+    "key": "Database Administrators",
+    "subregion": "Computer and Mathematical  ",
+    "value": 3990
+  },
+  {
+    "region": "Business",
+    "key": "Network and Computer Systems Administrators",
+    "subregion": "Computer and Mathematical  ",
+    "value": 14230
+  },
+  {
+    "region": "Business",
+    "key": "Computer Network Architects",
+    "subregion": "Computer and Mathematical  ",
+    "value": 4560
+  },
+  {
+    "region": "Business",
+    "key": "Computer User Support Specialists",
+    "subregion": "Computer and Mathematical  ",
+    "value": 23160
+  },
+  {
+    "region": "Business",
+    "key": "Computer Network Support Specialists",
+    "subregion": "Computer and Mathematical  ",
+    "value": 6520
+  },
+  {
+    "region": "Business",
+    "key": "Computer  , All Other",
+    "subregion": "Computer and Mathematical  ",
+    "value": 1630
+  },
+  {
+    "region": "Business",
+    "key": "Actuaries",
+    "subregion": "Computer and Mathematical  ",
+    "value": 1300
+  },
+  {
+    "region": "Business",
+    "key": "Operations Research Analysts",
+    "subregion": "Computer and Mathematical  ",
+    "value": 4190
+  },
+  {
+    "region": "Business",
+    "key": "Statisticians",
+    "subregion": "Computer and Mathematical  ",
+    "value": 680
+  },
+  {
+    "region": "Business",
+    "key": "Mathematicians*, Miscellaneous Mathematical Science *",
+    "subregion": "Computer and Mathematical  ",
+    "value": 80
+  },
+  {
+    "region": "Business",
+    "key": "Architects, Except Landscape and Naval",
+    "subregion": "Architecture and Engineering  ",
+    "value": 8670
+  },
+  {
+    "region": "Business",
+    "key": "Landscape Architects",
+    "subregion": "Architecture and Engineering  ",
+    "value": 850
+  },
+  {
+    "region": "Business",
+    "key": "Surveyors",
+    "subregion": "Architecture and Engineering  ",
+    "value": 470
+  },
+  {
+    "region": "Business",
+    "key": "Civil Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 7300
+  },
+  {
+    "region": "Business",
+    "key": "Computer Hardware Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 250
+  },
+  {
+    "region": "Business",
+    "key": "Electrical Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 3010
+  },
+  {
+    "region": "Business",
+    "key": "Electronics Engineers, Except Computer",
+    "subregion": "Architecture and Engineering  ",
+    "value": 680
+  },
+  {
+    "region": "Business",
+    "key": "Environmental Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 840
+  },
+  {
+    "region": "Business",
+    "key": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+    "subregion": "Architecture and Engineering  ",
+    "value": 550
+  },
+  {
+    "region": "Business",
+    "key": "Industrial Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 1370
+  },
+  {
+    "region": "Business",
+    "key": "Mechanical Engineers",
+    "subregion": "Architecture and Engineering  ",
+    "value": 2450
+  },
+  {
+    "region": "Business",
+    "key": "Engineers, All Other",
+    "subregion": "Architecture and Engineering  ",
+    "value": 1870
+  },
+  {
+    "region": "Business",
+    "key": "Architectural and Civil Drafters",
+    "subregion": "Architecture and Engineering  ",
+    "value": 2750
+  },
+  {
+    "region": "Business",
+    "key": "Electrical and Electronics Drafters",
+    "subregion": "Architecture and Engineering  ",
+    "value": 690
+  },
+  {
+    "region": "Business",
+    "key": "Mechanical Drafters",
+    "subregion": "Architecture and Engineering  ",
+    "value": 760
+  },
+  {
+    "region": "Business",
+    "key": "Drafters, All Other",
+    "subregion": "Architecture and Engineering  ",
+    "value": 280
+  },
+  {
+    "region": "Business",
+    "key": "Civil Engineering Technicians",
+    "subregion": "Architecture and Engineering  ",
+    "value": 770
+  },
+  {
+    "region": "Business",
+    "key": "Electrical and Electronic Engineering Technicians",
+    "subregion": "Architecture and Engineering  ",
+    "value": 1300
+  },
+  {
+    "region": "Business",
+    "key": "Engineering Technicians, Except Drafters, All Other",
+    "subregion": "Architecture and Engineering  ",
+    "value": 510
+  },
+  {
+    "region": "Business",
+    "key": "Surveying and Mapping Technicians*,  Mechanical Engineering Technicians*, Environmental Engineering Technicians*, Mining and Geological Engineers, Including Mining Safety Engineers*, Materials Engineers*, Materials Engineers*, Marine Engineers and Naval Architects*, Industrial Engineering Technicians*, Aerospace Engineers*, Biomedical Engineers*, Chemical Engineers*, Cartographers and Photogrammetrists*",
+    "subregion": "Architecture and Engineering  ",
+    "value": 1800
+  },
+  {
+    "region": "Business",
+    "key": "Biological Scientists, All Other",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 310
+  },
+  {
+    "region": "Business",
+    "key": "Medical Scientists, Except Epidemiologists",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 5580
+  },
+  {
+    "region": "Business",
+    "key": "Chemists",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 710
+  },
+  {
+    "region": "Business",
+    "key": "Environmental Scientists and Specialists, Including Health",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 1330
+  },
+  {
+    "region": "Business",
+    "key": "Physical Scientists, All Other",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 250
+  },
+  {
+    "region": "Business",
+    "key": "Economists",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 610
+  },
+  {
+    "region": "Business",
+    "key": "Survey Researchers",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 330
+  },
+  {
+    "region": "Business",
+    "key": "Clinical, Counseling, and School Psychologists",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 4880
+  },
+  {
+    "region": "Business",
+    "key": "Urban and Regional Planners",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 700
+  },
+  {
+    "region": "Business",
+    "key": "Social Scientists and Related Workers, All Other",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 1750
+  },
+  {
+    "region": "Business",
+    "key": "Biological Technicians",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 1250
+  },
+  {
+    "region": "Business",
+    "key": "Chemical Technicians",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 390
+  },
+  {
+    "region": "Business",
+    "key": "Social Science Research Assistants",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 3210
+  },
+  {
+    "region": "Business",
+    "key": "Environmental Science and Protection Technicians, Including Health",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 980
+  },
+  {
+    "region": "Business",
+    "key": "Life, Physical, and Social Science Technicians, All Other",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 2670
+  },
+  {
+    "region": "Business",
+    "key": "Forest and Conservation Technicians*, Political Scientists*, Sociologists*, Psychologists, All Other* , Geoscientists, Except Hydrologists and Geographers*, Materials Scientists*, Life Scientists, All Other*, Physicists*, Atmospheric and Space Scientists*, Conservation Scientists*, Foresters*, Epidemiologists*, Food Scientists and Technologists*, Soil and Plant Scientists*, Biochemists and Biophysicists*, Microbiologists*, Zoologists and Wildlife Biologists*",
+    "subregion": "Life, Physical, and Social Science  ",
+    "value": 2710
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Educational, Guidance, School, and Vocational Counselors",
+    "subregion": "Community and Social Service  ",
+    "value": 11430
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Marriage and Family Therapists",
+    "subregion": "Community and Social Service  ",
+    "value": 520
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Rehabilitation Counselors",
+    "subregion": "Community and Social Service  ",
+    "value": 3590
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Substance abuse, behavioral disorder, and mental health counselors?(OES-specific code and title)",
+    "subregion": "Community and Social Service  ",
+    "value": 5670
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Child, Family, and School Social Workers",
+    "subregion": "Community and Social Service  ",
+    "value": 15560
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Healthcare Social Workers",
+    "subregion": "Community and Social Service  ",
+    "value": 6260
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Mental Health and Substance Abuse Social Workers",
+    "subregion": "Community and Social Service  ",
+    "value": 5130
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Social Workers, All Other",
+    "subregion": "Community and Social Service  ",
+    "value": 1940
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Health Educators",
+    "subregion": "Community and Social Service  ",
+    "value": 2460
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Social and Human Service Assistants",
+    "subregion": "Community and Social Service  ",
+    "value": 16060
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Community Health Workers",
+    "subregion": "Community and Social Service  ",
+    "value": 2840
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Community and Social Service Specialists, All Other",
+    "subregion": "Community and Social Service  ",
+    "value": 11630
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Clergy",
+    "subregion": "Community and Social Service  ",
+    "value": 2880
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Directors, Religious Activities and Education",
+    "subregion": "Community and Social Service  ",
+    "value": 2220
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Religious Workers, All Other*, Counselors, All Other*",
+    "subregion": "Community and Social Service  ",
+    "value": 1590
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Lawyers",
+    "subregion": "Legal  ",
+    "value": 53070
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "subregion": "Legal  ",
+    "value": 850
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Paralegals and Legal Assistants",
+    "subregion": "Legal  ",
+    "value": 13780
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Legal Support Workers, All Other",
+    "subregion": "Legal  ",
+    "value": 1170
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Title Examiners, Abstractors, and Searchers*; Arbitrators, Mediators, and Conciliators*; Judicial Law Clerks*",
+    "subregion": "Legal  ",
+    "value": 1930
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Business Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 3680
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Computer Science Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1330
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Mathematical Science Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1900
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Architecture Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 590
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Engineering Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1050
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Biological Science Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 2180
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 320
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Chemistry Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 890
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physics Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 540
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Anthropology and Archeology Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 570
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 720
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Economics Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 670
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Political Science Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 820
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Psychology Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 2630
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Sociology Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 620
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Social Sciences Teachers, Postsecondary, All Other",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1030
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Health Specialties Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 12850
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nursing Instructors and Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1330
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Education Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 2490
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Law Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1640
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Social Work Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1510
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Art, Drama, and Music Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 5390
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Communications Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1430
+  },
+  {
+    "region": "Professional and Service",
+    "key": "English Language and Literature Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 3510
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Foreign Language and Literature Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1470
+  },
+  {
+    "region": "Professional and Service",
+    "key": "History Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 800
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Philosophy and Religion Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1440
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Graduate Teaching Assistants",
+    "subregion": "Education, Training, and Library  ",
+    "value": 5370
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Recreation and Fitness Studies Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 340
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Vocational Education Teachers, Postsecondary",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1210
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Postsecondary Teachers, All Other",
+    "subregion": "Education, Training, and Library  ",
+    "value": 2420
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Preschool Teachers, Except Special Education",
+    "subregion": "Education, Training, and Library  ",
+    "value": 15330
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Kindergarten Teachers, Except Special Education",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1230
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Elementary School Teachers, Except Special Education",
+    "subregion": "Education, Training, and Library  ",
+    "value": 29160
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Middle School Teachers, Except Special and Career/Technical Education",
+    "subregion": "Education, Training, and Library  ",
+    "value": 13460
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "subregion": "Education, Training, and Library  ",
+    "value": 23520
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Career/Technical Education Teachers, Secondary School",
+    "subregion": "Education, Training, and Library  ",
+    "value": 770
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Special Education Teachers, Preschool",
+    "subregion": "Education, Training, and Library  ",
+    "value": 2160
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Special Education Teachers, Kindergarten and Elementary School",
+    "subregion": "Education, Training, and Library  ",
+    "value": 7250
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Special Education Teachers, Middle School",
+    "subregion": "Education, Training, and Library  ",
+    "value": 4500
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Special Education Teachers, All Other",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1530
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1760
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Self-Enrichment Education Teachers",
+    "subregion": "Education, Training, and Library  ",
+    "value": 16190
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Teachers and Instructors, All Other, Except Substitute Teachers",
+    "subregion": "Education, Training, and Library  ",
+    "value": 11240
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Substitute teachers",
+    "subregion": "Education, Training, and Library  ",
+    "value": 8430
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Archivists",
+    "subregion": "Education, Training, and Library  ",
+    "value": 960
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Curators",
+    "subregion": "Education, Training, and Library  ",
+    "value": 1140
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Museum Technicians and Conservators",
+    "subregion": "Education, Training, and Library  ",
+    "value": 940
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Librarians",
+    "subregion": "Education, Training, and Library  ",
+    "value": 5070
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Library Technicians",
+    "subregion": "Education, Training, and Library  ",
+    "value": 3240
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Instructional Coordinators",
+    "subregion": "Education, Training, and Library  ",
+    "value": 7400
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Teacher Assistants",
+    "subregion": "Education, Training, and Library  ",
+    "value": 37860
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Education, Training, and Library Workers, All Other",
+    "subregion": "Education, Training, and Library  ",
+    "value": 780
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Audio-Visual and Multimedia Collections Specialists*; Farm and Home Management Advisors*; Career/Technical Education Teachers, Middle School*; Library Science Teachers, Postsecondary*; Geography Teachers, Postsecondary*; Environmental Science Teachers, Postsecondary*",
+    "subregion": "Education, Training, and Library  ",
+    "value": 8590
+  },
+  {
+    "region": "Business",
+    "key": "Art Directors",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 7430
+  },
+  {
+    "region": "Business",
+    "key": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1070
+  },
+  {
+    "region": "Business",
+    "key": "Multimedia Artists and Animators",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1740
+  },
+  {
+    "region": "Business",
+    "key": "Commercial and Industrial Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1200
+  },
+  {
+    "region": "Business",
+    "key": "Fashion Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 6940
+  },
+  {
+    "region": "Business",
+    "key": "Floral Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 600
+  },
+  {
+    "region": "Business",
+    "key": "Graphic Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 14310
+  },
+  {
+    "region": "Business",
+    "key": "Interior Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 3410
+  },
+  {
+    "region": "Business",
+    "key": "Merchandise Displayers and Window Trimmers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 2520
+  },
+  {
+    "region": "Business",
+    "key": "Set and Exhibit Designers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1560
+  },
+  {
+    "region": "Business",
+    "key": "Designers, All Other",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 450
+  },
+  {
+    "region": "Business",
+    "key": "Producers and Directors",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 22500
+  },
+  {
+    "region": "Business",
+    "key": "Coaches and Scouts",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 2940
+  },
+  {
+    "region": "Business",
+    "key": "Music Directors and Composers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1510
+  },
+  {
+    "region": "Business",
+    "key": "Radio and Television Announcers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 940
+  },
+  {
+    "region": "Business",
+    "key": "Reporters and Correspondents",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 3500
+  },
+  {
+    "region": "Business",
+    "key": "Public Relations Specialists",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 17850
+  },
+  {
+    "region": "Business",
+    "key": "Editors",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 15200
+  },
+  {
+    "region": "Business",
+    "key": "Technical Writers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1470
+  },
+  {
+    "region": "Business",
+    "key": "Writers and Authors",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 6340
+  },
+  {
+    "region": "Business",
+    "key": "Interpreters and Translators",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 2310
+  },
+  {
+    "region": "Business",
+    "key": "Media and Communication Workers, All Other",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 450
+  },
+  {
+    "region": "Business",
+    "key": "Audio and Video Equipment Technicians",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 5780
+  },
+  {
+    "region": "Business",
+    "key": "Broadcast Technicians",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 4620
+  },
+  {
+    "region": "Business",
+    "key": "Sound Engineering Technicians",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1370
+  },
+  {
+    "region": "Business",
+    "key": "Photographers",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 2550
+  },
+  {
+    "region": "Business",
+    "key": "Camera Operators, Television, Video, and Motion Picture",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 1670
+  },
+  {
+    "region": "Business",
+    "key": "Film and Video Editors",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 4040
+  },
+  {
+    "region": "Business",
+    "key": "Media and Communication Equipment Workers, All Other*; Broadcast News Analysts*; Choreographers*; Athletes and Sports Competitors*; Artists and Related Workers, All Other*; Craft Artists*",
+    "subregion": "Arts, Design, Entertainment, Sports, and Media  ",
+    "value": 12020
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Chiropractors",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 930
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dentists, General",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 4810
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dietitians and Nutritionists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1920
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Optometrists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 700
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Pharmacists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 9720
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Anesthesiologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 370
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Family and General Practitioners",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 800
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Internists, General",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1150
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Obstetricians and Gynecologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 670
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Pediatricians, General",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 910
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Psychiatrists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2220
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Surgeons",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 650
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physicians and Surgeons, All Other",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 24930
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physician Assistants",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 5200
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Podiatrists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 560
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Occupational Therapists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 3360
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physical Therapists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 5590
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Radiation Therapists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 420
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Recreational Therapists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 570
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Respiratory Therapists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2070
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Speech-Language Pathologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 4860
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Therapists, All Other",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 310
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Veterinarians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 840
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Registered Nurses",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 72040
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nurse Anesthetists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 580
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nurse Practitioners",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 5830
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Audiologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 260
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Health Diagnosing and Treating Practitioners, All Other",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1750
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Clinical Laboratory Technologists and Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 7070
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dental Hygienists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2590
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cardiovascular Technologists and Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1150
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Diagnostic Medical Sonographers",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2010
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nuclear Medicine Technologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 420
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Radiologic Technologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 4850
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Magnetic Resonance Imaging Technologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1210
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Emergency Medical Technicians and Paramedics",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 6500
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dietetic Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 380
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Pharmacy Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 8780
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Psychiatric Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 750
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Surgical Technologists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2350
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Veterinary Technologists and Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1250
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Licensed Practical and Licensed Vocational Nurses",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 13920
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Medical Records and Health Information Technicians",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 3730
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Opticians, Dispensing",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 790
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Health Technologists and Technicians, All Other",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2280
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Occupational Health and Safety Specialists",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 1140
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Athletic Trainers",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 420
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Healthcare Practitioners and Technical Workers, All Other",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 400
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Genetic Counselors*; Orthotists and Prosthetists*; Respiratory Therapy Technicians*; Nurse Midwives*; Exercise Physiologists*; Oral and Maxillofacial Surgeons*; Dentists, All Other Specialists* ",
+    "subregion": "Healthcare Practitioners and Technical  ",
+    "value": 2720
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Home Health Aides",
+    "subregion": "Healthcare Support  ",
+    "value": 147150
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Psychiatric Aides",
+    "subregion": "Healthcare Support  ",
+    "value": 1740
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nursing Assistants",
+    "subregion": "Healthcare Support  ",
+    "value": 35880
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Orderlies",
+    "subregion": "Healthcare Support  ",
+    "value": 1380
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Occupational Therapy Assistants",
+    "subregion": "Healthcare Support  ",
+    "value": 780
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Occupational Therapy Aides*",
+    "subregion": "Healthcare Support  ",
+    "value": 150
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physical Therapist Assistants",
+    "subregion": "Healthcare Support  ",
+    "value": 1510
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Physical Therapist Aides",
+    "subregion": "Healthcare Support  ",
+    "value": 1000
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Massage Therapists",
+    "subregion": "Healthcare Support  ",
+    "value": 1970
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dental Assistants",
+    "subregion": "Healthcare Support  ",
+    "value": 7980
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Medical Assistants",
+    "subregion": "Healthcare Support  ",
+    "value": 12850
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Medical Equipment Preparers",
+    "subregion": "Healthcare Support  ",
+    "value": 1390
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Medical Transcriptionists",
+    "subregion": "Healthcare Support  ",
+    "value": 310
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Pharmacy Aides",
+    "subregion": "Healthcare Support  ",
+    "value": 720
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "subregion": "Healthcare Support  ",
+    "value": 630
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Phlebotomists",
+    "subregion": "Healthcare Support  ",
+    "value": 1770
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Healthcare Support Workers, All Other",
+    "subregion": "Healthcare Support  ",
+    "value": 2210
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Correctional Officers",
+    "subregion": "Protective Service  ",
+    "value": 1060
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Police and Detectives",
+    "subregion": "Protective Service  ",
+    "value": 7670
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+    "subregion": "Protective Service  ",
+    "value": 2400
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Protective Service Workers, All Other",
+    "subregion": "Protective Service  ",
+    "value": 5330
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Firefighters",
+    "subregion": "Protective Service  ",
+    "value": 7950
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Fire Inspectors and Investigators",
+    "subregion": "Protective Service  ",
+    "value": 640
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Correctional Officers and Jailers",
+    "subregion": "Protective Service  ",
+    "value": 9410
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Detectives and Criminal Investigators",
+    "subregion": "Protective Service  ",
+    "value": 3700
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Parking Enforcement Workers*",
+    "subregion": "Protective Service  ",
+    "value": 4980
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Police and Sheriff's Patrol Officers",
+    "subregion": "Protective Service  ",
+    "value": 32720
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Transit and Railroad Police",
+    "subregion": "Protective Service  ",
+    "value": 1230
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Private Detectives and Investigators",
+    "subregion": "Protective Service  ",
+    "value": 1050
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Security Guards",
+    "subregion": "Protective Service  ",
+    "value": 79840
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Crossing Guards",
+    "subregion": "Protective Service  ",
+    "value": 7190
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Lifeguards, Ski Patrol, and Other Recreational Protective Service",
+    "subregion": "Protective Service  ",
+    "value": 3170
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Protective Service Workers, All Other",
+    "subregion": "Protective Service  ",
+    "value": 9330
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Chefs and Head Cooks",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 8760
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 19990
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cooks, Fast Food",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 3900
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cooks, Institution and Cafeteria",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 6080
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cooks, Restaurant",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 34220
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cooks, Short Order",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 2760
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Cooks, All Other",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 780
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Food Preparation Workers",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 32110
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Bartenders",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 18420
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Combined Food Preparation and Serving Workers, Including Fast Food",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 70240
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 12560
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Waiters and Waitresses",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 77150
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Food Servers, Nonrestaurant",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 7030
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 19890
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Dishwashers",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 14340
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 7960
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Food Preparation and Serving Related Workers, All Other*",
+    "subregion": "Food Preparation and Serving Related  ",
+    "value": 1590
+  },
+  {
+    "region": "Blue Collar",
+    "key": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 5130
+  },
+  {
+    "region": "Blue Collar",
+    "key": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 830
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 93720
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Maids and Housekeeping Cleaners",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 24220
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Pest Control Workers",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 840
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Landscaping and Groundskeeping Workers",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 5650
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Grounds Maintenance Workers, All Other",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 2840
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Tree Trimmers and Pruners*; Building Cleaning Workers, All Other*",
+    "subregion": "Building and Grounds Cleaning and Maintenance  ",
+    "value": 740
+  },
+  {
+    "region": "Professional and Service",
+    "key": "First-Line Supervisors of Personal Service Workers",
+    "subregion": "Personal Care and Service  ",
+    "value": 9350
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Nonfarm Animal Caretakers",
+    "subregion": "Personal Care and Service  ",
+    "value": 3080
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Ushers, Lobby Attendants, and Ticket Takers",
+    "subregion": "Personal Care and Service  ",
+    "value": 9020
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Amusement and Recreation Attendants",
+    "subregion": "Personal Care and Service  ",
+    "value": 4430
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Costume Attendants",
+    "subregion": "Personal Care and Service  ",
+    "value": 1070
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Locker Room, Coatroom, and Dressing Room Attendants",
+    "subregion": "Personal Care and Service  ",
+    "value": 1100
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Entertainment Attendants and Related Workers, All Other",
+    "subregion": "Personal Care and Service  ",
+    "value": 260
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Morticians, Undertakers, and Funeral Directors",
+    "subregion": "Personal Care and Service  ",
+    "value": 360
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Hairdressers, Hairstylists, and Cosmetologists",
+    "subregion": "Personal Care and Service  ",
+    "value": 8340
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Makeup Artists, Theatrical and Performance",
+    "subregion": "Personal Care and Service  ",
+    "value": 460
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Manicurists and Pedicurists",
+    "subregion": "Personal Care and Service  ",
+    "value": 13850
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Shampooers",
+    "subregion": "Personal Care and Service  ",
+    "value": 540
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Skincare Specialists",
+    "subregion": "Personal Care and Service  ",
+    "value": 3630
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Baggage Porters and Bellhops",
+    "subregion": "Personal Care and Service  ",
+    "value": 2980
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Concierges",
+    "subregion": "Personal Care and Service  ",
+    "value": 4040
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Tour and Travel Guides",
+    "subregion": "Personal Care and Service  ",
+    "value": 1570
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Childcare Workers",
+    "subregion": "Personal Care and Service  ",
+    "value": 17520
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Personal Care Aides",
+    "subregion": "Personal Care and Service  ",
+    "value": 109930
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Fitness Trainers and Aerobics Instructors",
+    "subregion": "Personal Care and Service  ",
+    "value": 12640
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Recreation Workers",
+    "subregion": "Personal Care and Service  ",
+    "value": 13110
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Residential Advisors",
+    "subregion": "Personal Care and Service  ",
+    "value": 3280
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Personal Care and Service Workers, All Other",
+    "subregion": "Personal Care and Service  ",
+    "value": 640
+  },
+  {
+    "region": "Professional and Service",
+    "key": "Barbers*; Funeral Attendants*; Motion Picture Projectionists*; Animal Trainers*; First-Line Supervisors of Gaming Workers*",
+    "subregion": "Personal Care and Service  ",
+    "value": 1860
+  },
+  {
+    "region": "Business",
+    "key": "First-Line Supervisors of Retail Sales Workers",
+    "subregion": "Sales and Related  ",
+    "value": 23480
+  },
+  {
+    "region": "Business",
+    "key": "First-Line Supervisors of Non-Retail Sales Workers",
+    "subregion": "Sales and Related  ",
+    "value": 12660
+  },
+  {
+    "region": "Business",
+    "key": "Cashiers",
+    "subregion": "Sales and Related  ",
+    "value": 72450
+  },
+  {
+    "region": "Business",
+    "key": "Counter and Rental Clerks",
+    "subregion": "Sales and Related  ",
+    "value": 9930
+  },
+  {
+    "region": "Business",
+    "key": "Parts Salespersons",
+    "subregion": "Sales and Related  ",
+    "value": 1610
+  },
+  {
+    "region": "Business",
+    "key": "Retail Salespersons",
+    "subregion": "Sales and Related  ",
+    "value": 119930
+  },
+  {
+    "region": "Business",
+    "key": "Advertising Sales Agents",
+    "subregion": "Sales and Related  ",
+    "value": 16500
+  },
+  {
+    "region": "Business",
+    "key": "Insurance Sales Agents",
+    "subregion": "Sales and Related  ",
+    "value": 7000
+  },
+  {
+    "region": "Business",
+    "key": "Securities, Commodities, and Financial Services Sales Agents",
+    "subregion": "Sales and Related  ",
+    "value": 54540
+  },
+  {
+    "region": "Business",
+    "key": "Travel Agents",
+    "subregion": "Sales and Related  ",
+    "value": 4410
+  },
+  {
+    "region": "Business",
+    "key": "Sales Representatives, Services, All Other",
+    "subregion": "Sales and Related  ",
+    "value": 39300
+  },
+  {
+    "region": "Business",
+    "key": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "subregion": "Sales and Related  ",
+    "value": 5780
+  },
+  {
+    "region": "Business",
+    "key": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "subregion": "Sales and Related  ",
+    "value": 34350
+  },
+  {
+    "region": "Business",
+    "key": "Demonstrators and Product Promoters",
+    "subregion": "Sales and Related  ",
+    "value": 2820
+  },
+  {
+    "region": "Business",
+    "key": "Real Estate Brokers",
+    "subregion": "Sales and Related  ",
+    "value": 770
+  },
+  {
+    "region": "Business",
+    "key": "Real Estate Sales Agents",
+    "subregion": "Sales and Related  ",
+    "value": 2850
+  },
+  {
+    "region": "Business",
+    "key": "Sales Engineers",
+    "subregion": "Sales and Related  ",
+    "value": 960
+  },
+  {
+    "region": "Business",
+    "key": "Telemarketers",
+    "subregion": "Sales and Related  ",
+    "value": 1910
+  },
+  {
+    "region": "Business",
+    "key": "Sales and Related Workers, All Other",
+    "subregion": "Sales and Related  ",
+    "value": 840
+  },
+  {
+    "region": "Business",
+    "key": "First-Line Supervisors of Office and Administrative Support Workers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 55110
+  },
+  {
+    "region": "Business",
+    "key": "Switchboard Operators, Including Answering Service",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1720
+  },
+  {
+    "region": "Business",
+    "key": "Bill and Account Collectors",
+    "subregion": "Office and Administrative Support  ",
+    "value": 5400
+  },
+  {
+    "region": "Business",
+    "key": "Billing and Posting Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 13360
+  },
+  {
+    "region": "Business",
+    "key": "Bookkeeping, Accounting, and Auditing Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 41090
+  },
+  {
+    "region": "Business",
+    "key": "Payroll and Timekeeping Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 3130
+  },
+  {
+    "region": "Business",
+    "key": "Procurement Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1360
+  },
+  {
+    "region": "Business",
+    "key": "Tellers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 9780
+  },
+  {
+    "region": "Business",
+    "key": "Financial Clerks, All Other",
+    "subregion": "Office and Administrative Support  ",
+    "value": 940
+  },
+  {
+    "region": "Business",
+    "key": "Brokerage Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 3930
+  },
+  {
+    "region": "Business",
+    "key": "Credit Authorizers, Checkers, and Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 580
+  },
+  {
+    "region": "Business",
+    "key": "Customer Service Representatives",
+    "subregion": "Office and Administrative Support  ",
+    "value": 64170
+  },
+  {
+    "region": "Business",
+    "key": "File Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 3530
+  },
+  {
+    "region": "Business",
+    "key": "Hotel, Motel, and Resort Desk Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 4510
+  },
+  {
+    "region": "Business",
+    "key": "Interviewers, Except Eligibility and Loan",
+    "subregion": "Office and Administrative Support  ",
+    "value": 6850
+  },
+  {
+    "region": "Business",
+    "key": "Library Assistants, Clerical",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1630
+  },
+  {
+    "region": "Business",
+    "key": "Loan Interviewers and Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 2740
+  },
+  {
+    "region": "Business",
+    "key": "New Accounts Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 560
+  },
+  {
+    "region": "Business",
+    "key": "Order Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 2320
+  },
+  {
+    "region": "Business",
+    "key": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "subregion": "Office and Administrative Support  ",
+    "value": 4600
+  },
+  {
+    "region": "Business",
+    "key": "Receptionists and Information Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 39130
+  },
+  {
+    "region": "Business",
+    "key": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 6680
+  },
+  {
+    "region": "Business",
+    "key": "Information and Record Clerks, All Other",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1410
+  },
+  {
+    "region": "Business",
+    "key": "Cargo and Freight Agents",
+    "subregion": "Office and Administrative Support  ",
+    "value": 4100
+  },
+  {
+    "region": "Business",
+    "key": "Couriers and Messengers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 5680
+  },
+  {
+    "region": "Business",
+    "key": "Police, Fire, and Ambulance Dispatchers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1510
+  },
+  {
+    "region": "Business",
+    "key": "Dispatchers, Except Police, Fire, and Ambulance",
+    "subregion": "Office and Administrative Support  ",
+    "value": 7040
+  },
+  {
+    "region": "Business",
+    "key": "Postal Service Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1950
+  },
+  {
+    "region": "Business",
+    "key": "Postal Service Mail Carriers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 8790
+  },
+  {
+    "region": "Business",
+    "key": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+    "subregion": "Office and Administrative Support  ",
+    "value": 4480
+  },
+  {
+    "region": "Business",
+    "key": "Production, Planning, and Expediting Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 19270
+  },
+  {
+    "region": "Business",
+    "key": "Shipping, Receiving, and Traffic Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 9590
+  },
+  {
+    "region": "Business",
+    "key": "Stock Clerks and Order Fillers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 42380
+  },
+  {
+    "region": "Business",
+    "key": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1110
+  },
+  {
+    "region": "Business",
+    "key": "Executive Secretaries and Executive Administrative Assistants",
+    "subregion": "Office and Administrative Support  ",
+    "value": 57240
+  },
+  {
+    "region": "Business",
+    "key": "Legal Secretaries",
+    "subregion": "Office and Administrative Support  ",
+    "value": 7920
+  },
+  {
+    "region": "Business",
+    "key": "Medical Secretaries",
+    "subregion": "Office and Administrative Support  ",
+    "value": 3900
+  },
+  {
+    "region": "Business",
+    "key": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+    "subregion": "Office and Administrative Support  ",
+    "value": 79200
+  },
+  {
+    "region": "Business",
+    "key": "Computer Operators",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1200
+  },
+  {
+    "region": "Business",
+    "key": "Data Entry Keyers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 5100
+  },
+  {
+    "region": "Business",
+    "key": "Word Processors and Typists",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1860
+  },
+  {
+    "region": "Business",
+    "key": "Desktop Publishers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 500
+  },
+  {
+    "region": "Business",
+    "key": "Insurance Claims and Policy Processing Clerks",
+    "subregion": "Office and Administrative Support  ",
+    "value": 3530
+  },
+  {
+    "region": "Business",
+    "key": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+    "subregion": "Office and Administrative Support  ",
+    "value": 4500
+  },
+  {
+    "region": "Business",
+    "key": "Office Clerks, General",
+    "subregion": "Office and Administrative Support  ",
+    "value": 94250
+  },
+  {
+    "region": "Business",
+    "key": "Office Machine Operators, Except Computer",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1760
+  },
+  {
+    "region": "Business",
+    "key": "Proofreaders and Copy Markers",
+    "subregion": "Office and Administrative Support  ",
+    "value": 1000
+  },
+  {
+    "region": "Business",
+    "key": "Statistical Assistants",
+    "subregion": "Office and Administrative Support  ",
+    "value": 360
+  },
+  {
+    "region": "Business",
+    "key": "Office and Administrative Support Workers, All Other",
+    "subregion": "Office and Administrative Support  ",
+    "value": 13160
+  },
+  {
+    "region": "Business",
+    "key": "Correspondence Clerks*; Telephone Operators*; Communications Equipment Operators, All Other*; ",
+    "subregion": "Office and Administrative Support  ",
+    "value": 8330
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Farming, Fishing, and Forestry*; First-Line Supervisors of Farming, Fishing, and Forestry Workers*; Agricultural Inspectors*; Farmworkers and Laborers, Crop, Nursery, and Greenhouse*; Forest and Conservation Workers*",
+    "subregion": "Farming, Fishing, and Forestry  ",
+    "value": 1880
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Supervisors of Construction and Extraction Workers",
+    "subregion": "Construction and Extraction  ",
+    "value": 10700
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Brickmasons and Blockmasons",
+    "subregion": "Construction and Extraction  ",
+    "value": 2220
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Carpenters",
+    "subregion": "Construction and Extraction  ",
+    "value": 17370
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Tile and Marble Setters",
+    "subregion": "Construction and Extraction  ",
+    "value": 780
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cement Masons and Concrete Finishers",
+    "subregion": "Construction and Extraction  ",
+    "value": 3080
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Construction Laborers",
+    "subregion": "Construction and Extraction  ",
+    "value": 22640
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Paving, Surfacing, and Tamping Equipment Operators",
+    "subregion": "Construction and Extraction  ",
+    "value": 740
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Operating Engineers and Other Construction Equipment Operators",
+    "subregion": "Construction and Extraction  ",
+    "value": 2380
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Drywall and Ceiling Tile Installers",
+    "subregion": "Construction and Extraction  ",
+    "value": 1810
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Electricians",
+    "subregion": "Construction and Extraction  ",
+    "value": 19570
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Glaziers",
+    "subregion": "Construction and Extraction  ",
+    "value": 860
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Painters, Construction and Maintenance",
+    "subregion": "Construction and Extraction  ",
+    "value": 6070
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Plumbers, Pipefitters, and Steamfitters",
+    "subregion": "Construction and Extraction  ",
+    "value": 13960
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Plasterers and Stucco Masons",
+    "subregion": "Construction and Extraction  ",
+    "value": 690
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Reinforcing Iron and Rebar Workers",
+    "subregion": "Construction and Extraction  ",
+    "value": 770
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Roofers",
+    "subregion": "Construction and Extraction  ",
+    "value": 960
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Sheet Metal Workers",
+    "subregion": "Construction and Extraction  ",
+    "value": 3290
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Structural Iron and Steel Workers",
+    "subregion": "Construction and Extraction  ",
+    "value": 2850
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Solar Photovoltaic Installers",
+    "subregion": "Construction and Extraction  ",
+    "value": 480
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+    "subregion": "Construction and Extraction  ",
+    "value": 690
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers--Electricians",
+    "subregion": "Construction and Extraction  ",
+    "value": 2910
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+    "subregion": "Construction and Extraction  ",
+    "value": 1920
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers, Construction Trades, All Other",
+    "subregion": "Construction and Extraction  ",
+    "value": 1290
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Construction and Building Inspectors",
+    "subregion": "Construction and Extraction  ",
+    "value": 3340
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Elevator Installers and Repairers",
+    "subregion": "Construction and Extraction  ",
+    "value": 3630
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Hazardous Materials Removal Workers",
+    "subregion": "Construction and Extraction  ",
+    "value": 2360
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Rail-Track Laying and Maintenance Equipment Operators",
+    "subregion": "Construction and Extraction  ",
+    "value": 2220
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "subregion": "Construction and Extraction  ",
+    "value": 400
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Explosives Workers, Ordnance Handling Experts, and Blasters*; Earth Drillers, Except Oil and Gas*; Miscellaneous Construction and Related Workers*; Fence Erectors*; Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons*; Helpers--Carpenters*; Paperhangers*; Tapers*; Pile-Driver Operators*; Pile-Driver Operators*; Stonemasons*; Boilermakers*",
+    "subregion": "Construction and Extraction  ",
+    "value": 1920
+  },
+  {
+    "region": "Blue Collar",
+    "key": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 9160
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Computer, Automated Teller, and Office Machine Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 2400
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 4480
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 270
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 310
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Electronic Home Entertainment Equipment Installers and Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 1200
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Security and Fire Alarm Systems Installers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 2000
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Aircraft Mechanics and Service Technicians",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 2030
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Automotive Body and Related Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 1510
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Automotive Service Technicians and Mechanics",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 7700
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 4530
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Mobile Heavy Equipment Mechanics, Except Engines",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 280
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Control and Valve Installers and Repairers, Except Mechanical Door",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 2080
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 5970
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Industrial Machinery Mechanics",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 1470
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Maintenance Workers, Machinery",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 630
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Telecommunications Line Installers and Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 4660
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Medical Equipment Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 740
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Watch Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 250
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Maintenance and Repair Workers, General",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 53560
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 720
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Locksmiths and Safe Repairers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 260
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers--Installation, Maintenance, and Repair Workers",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 2030
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Installation, Maintenance, and Repair Workers, All Other",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 1020
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Riggers*; Commercial Divers*; Precision Instrument and Equipment Repairers, All Other*; Musical Instrument Repairers and Tuners*; Camera and Photographic Equipment Repairers*; Millwrights*;  Motorcycle Mechanics*; Outdoor Power Equipment and Other Small Engine Mechanics*; Bicycle Repairers*; Tire Repairers and Changers*; Mechanical Door Repairers*; Automotive Glass Installers and Repairers*; Avionics Technicians*; Electrical and Electronics Installers and Repairers, Transportation Equipment*; Radio, Cellular, and Tower Equipment Installers and Repairers*",
+    "subregion": "Installation, Maintenance, and Repair  ",
+    "value": 7830
+  },
+  {
+    "region": "Blue Collar",
+    "key": "First-Line Supervisors of Production and Operating Workers",
+    "subregion": "Production  ",
+    "value": 5830
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers?(OES-specific code and title)",
+    "subregion": "Production  ",
+    "value": 1030
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Structural Metal Fabricators and Fitters",
+    "subregion": "Production  ",
+    "value": 890
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Assemblers and fabricators, all other, including team assemblers?(OES-specific code and title)",
+    "subregion": "Production  ",
+    "value": 6840
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Bakers",
+    "subregion": "Production  ",
+    "value": 4740
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Butchers and Meat Cutters",
+    "subregion": "Production  ",
+    "value": 4240
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Slaughterers and Meat Packers",
+    "subregion": "Production  ",
+    "value": 260
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Food Batchmakers",
+    "subregion": "Production  ",
+    "value": 2770
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+    "subregion": "Production  ",
+    "value": 320
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "subregion": "Production  ",
+    "value": 350
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Machinists",
+    "subregion": "Production  ",
+    "value": 980
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Welders, Cutters, Solderers, and Brazers",
+    "subregion": "Production  ",
+    "value": 1810
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Prepress Technician and Workers",
+    "subregion": "Production  ",
+    "value": 440
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Printing Press Operators",
+    "subregion": "Production  ",
+    "value": 3130
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Print Binding and Finishing Workers",
+    "subregion": "Production  ",
+    "value": 260
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Laundry and Dry-Cleaning Workers",
+    "subregion": "Production  ",
+    "value": 7460
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Pressers, Textile, Garment, and Related Materials",
+    "subregion": "Production  ",
+    "value": 400
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Sewing Machine Operators",
+    "subregion": "Production  ",
+    "value": 7400
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Shoe and Leather Workers and Repairers",
+    "subregion": "Production  ",
+    "value": 300
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Tailors, Dressmakers, and Custom Sewers",
+    "subregion": "Production  ",
+    "value": 750
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "subregion": "Production  ",
+    "value": 260
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "subregion": "Production  ",
+    "value": 330
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Fabric and Apparel Patternmakers",
+    "subregion": "Production  ",
+    "value": 910
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Upholsterers",
+    "subregion": "Production  ",
+    "value": 460
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cabinetmakers and Bench Carpenters",
+    "subregion": "Production  ",
+    "value": 1160
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Furniture Finishers",
+    "subregion": "Production  ",
+    "value": 270
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Power Plant Operators",
+    "subregion": "Production  ",
+    "value": 830
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Stationary Engineers and Boiler Operators",
+    "subregion": "Production  ",
+    "value": 1840
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Water and Wastewater Treatment Plant and System Operators",
+    "subregion": "Production  ",
+    "value": 760
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Grinding and Polishing Workers, Hand",
+    "subregion": "Production  ",
+    "value": 530
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Mixing and Blending Machine Setters, Operators, and Tenders",
+    "subregion": "Production  ",
+    "value": 820
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+    "subregion": "Production  ",
+    "value": 270
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "subregion": "Production  ",
+    "value": 4230
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Jewelers and Precious Stone and Metal Workers",
+    "subregion": "Production  ",
+    "value": 3340
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Dental Laboratory Technicians",
+    "subregion": "Production  ",
+    "value": 390
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Ophthalmic Laboratory Technicians",
+    "subregion": "Production  ",
+    "value": 830
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Packaging and Filling Machine Operators and Tenders",
+    "subregion": "Production  ",
+    "value": 2790
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Painters, Transportation Equipment",
+    "subregion": "Production  ",
+    "value": 340
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Photographic Process Workers and Processing Machine Operators",
+    "subregion": "Production  ",
+    "value": 910
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Paper Goods Machine Setters, Operators, and Tenders",
+    "subregion": "Production  ",
+    "value": 800
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Helpers--Production Workers",
+    "subregion": "Production  ",
+    "value": 2430
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Production Workers, All Other",
+    "subregion": "Production  ",
+    "value": 1590
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders*; Painting, Coating, and Decorating Workers*; Coating, Painting, and Spraying Machine Setters, Operators, and Tenders*; Medical Appliance Technicians*; Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders*; Gas Plant Operators*; Chemical Equipment Operators and Tenders*; Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders*; Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders*; Woodworking Machine Setters, Operators, and Tenders, Except Sawing*;  Power Distributors and Dispatchers*;  Textile, Apparel, and Furnishings Workers, All Other*; Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders*; Textile Bleaching and Dyeing Machine Operators and Tenders*; Sewers, Hand*; Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders*; Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic*;  Foundry Mold and Coremakers*; Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic*; Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic*; Tool and Die Makers*; Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic*; Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic*; Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic*; Food Cooking Machine Operators and Tenders*; Food Processing Workers, All Other*; Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders*; Meat, Poultry, and Fish Cutters and Trimmers*",
+    "subregion": "Production  ",
+    "value": 5690
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Aircraft Cargo Handling Supervisors",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 250
+  },
+  {
+    "region": "Blue Collar",
+    "key": "First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors?(OES-specific code and title)",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 9190
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Airline Pilots, Copilots, and Flight Engineers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 6100
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Commercial Pilots",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 290
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Airfield Operations Specialists",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 260
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Flight Attendants",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 9930
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 970
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Bus Drivers, Transit and Intercity",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 14860
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Bus Drivers, School or Special Client",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 14460
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Driver/Sales Workers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 8170
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Heavy and Tractor-Trailer Truck Drivers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 14870
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Light Truck or Delivery Services Drivers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 17970
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Taxi Drivers and Chauffeurs",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 8040
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Motor Vehicle Operators, All Other",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 1680
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Sailors and Marine Oilers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 810
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Captains, Mates, and Pilots of Water Vessels",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 1150
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Ship Engineers",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 340
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Parking Lot Attendants",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 9740
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Automotive and Watercraft Service Attendants",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 700
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Traffic Technicians",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 850
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Transportation Inspectors",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 3500
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Transportation Attendants, Except Flight Attendants",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 1640
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Transportation Workers, All Other",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 1090
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Crane and Tower Operators",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 370
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Excavating and Loading Machine and Dragline Operators",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 730
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Industrial Truck and Tractor Operators",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 4250
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Cleaners of Vehicles and Equipment",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 7430
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 50500
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Packers and Packagers, Hand",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 8740
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Refuse and Recyclable Material Collectors",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 6850
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Material Moving Workers, All Other",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 800
+  },
+  {
+    "region": "Blue Collar",
+    "key": "Machine Feeders and Offbearers*; Motorboat Operators*",
+    "subregion": "Transportation and Material Moving  ",
+    "value": 7280
+  }
+]

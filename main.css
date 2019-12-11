@@ -1,0 +1,170 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
+
+
+body {
+  position: absolute;
+  color: #130C0E;
+  background-color: #eee;
+  font-family: "Source Code Pro", Consolas, monaco, monospace;
+  line-height: 1.5;
+  font-weight: 400;
+  width:100%;
+}
+
+h2{
+  font-size:30px;
+}
+
+body.span{
+  font-weight:200;
+}
+
+.method{
+  color:grey;
+  padding-left:10em;
+  padding-right:10em;
+  font-size:12px;
+  padding-top:10em;
+}
+
+span{
+  font-weight:bold;
+}
+
+p {
+  padding-top:30px;
+  padding-left:20px;
+  font-size: 18px;
+  max-width: 1000px;
+}
+
+header{
+  padding-top:40px;
+  padding-left:15em;
+}
+.content{
+  padding-left:10em;
+
+}
+.wage {
+  margin-top:150px;
+  font-size: 18px;
+  max-width: 1000px;
+  padding-left:150px;
+}
+
+
+#slopegraph {
+  padding-top: 100px;
+}
+
+#slopegraph text{
+  font-size:16px;
+}
+
+.slopegraph{
+  padding-left:100px;
+}
+
+footer {
+  position: relative;
+}
+.l-labels, .r-labels {
+  font-size: 14px;
+}
+#reset {
+  font-size: 14px;
+  background: #130C0E;
+  color: #7AC143;
+  position: absolute;
+  border: none;
+  outline:none;
+  padding: 5px 8px;
+  letter-spacing: 1px;
+  left: 0;
+}
+
+#reset:hover {
+  background: #7AC143;
+  color: #130C0E;
+}
+#nav-alt ul {
+  list-style: none;
+  margin-left: 80px;
+}
+#nav-alt ul li {
+  display: inline-block;
+  padding: 4px 8px;
+  background: #FDBB30;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 1px;
+}
+#nav-alt ul li:hover {
+  background: #7AC143;
+}
+text.s-title {
+  fill: #130C0E;
+  letter-spacing: 1px;
+  padding-left:10px;
+}
+
+#chart {
+  font-family:"Source Code Pro", Consolas, monaco, monospace;
+  font-size:0.7em;
+  padding-left:4em;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 6px;
+  margin-left:110px;
+  margin-bottom: 20px;
+}
+.title p{
+  margin-left:60px;
+}
+text {
+  pointer-events:none;
+}
+
+.grandparent text {
+  font-weight: bold;
+}
+
+rect {
+  fill: none;
+  stroke: #fff;
+}
+
+rect.parent,
+.grandparent rect {
+  stroke-width: 1px;
+}
+
+rect.parent {
+  pointer-events: none;
+}
+
+.grandparent rect {
+  fill: orange;
+}
+
+.grandparent:hover rect {
+  fill: #ee9700;
+}
+
+.children rect.parent,
+.grandparent rect {
+  cursor: pointer;
+}
+
+.children rect.parent {
+  fill: #bbb;
+  fill-opacity: .7;
+}
+
+.children:hover rect.child {
+  fill: #bbb;
+}
