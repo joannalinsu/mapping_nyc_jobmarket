@@ -22,7 +22,10 @@
             <p> Here is a general sense: New York City is home to more than 4 million jobs. It uses 2.5% of the total labor market of the States in generating
                 5% of the U.S. total wages. </p>
             <p>You may probably already have a good sense of how these jobs
-                locate geographically. But the size of each parts is still vague, neither does how much they earn. </p></div>
+                locate geographically. But the size of each parts is still vague, neither does how much they earn. </p>
+
+            <p> The following treemap is an experiment, through which it shows more than half of the total jobs are about business, professional, and services. While in general "office and administrative support" has most people working on, NYC has about 147 thousand home health aides(under the "healthcare support" category), more than any other job titles. As a
+                journalist, it is also surprised for me to see that the city has way fewer reporters and correspondents than personal relation specialists, editors, or even graphic designers. What about your industry?</p> </div>
 
 
 
@@ -273,7 +276,7 @@
 
             function name(d) {
                 return d.parent
-                    ? name(d.parent) + " / " + d.key + " (" + formatNumber(d.value) + ")"
+                    ? name(d.parent) + " ==> " + d.key + " (" + formatNumber(d.value) + ")"
                     : d.key + " (" + formatNumber(d.value) + ")";
             }
         }
@@ -283,7 +286,7 @@
                 if (!err) {
                     console.log(res);
                     var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(res);
-                    main({title: "Click to explore 4 million jobs in NYC. 👇 </br> How to play? </br> -By clicking on each block, you will get to know more about its subcategories.</br> -By hovering on each block, you will get more information pumping out."}, {key: "New York City Total Occupations", values: data});
+                    main({title: "Click to explore 4 million jobs in NYC. 👇 </br> How to play? </br> -By clicking on each block, you will get to know more about its subcategories.</br> -By hovering on each block, you will get more information pumping out. </br> -By clicking 'NYC Total' to get back. "}, {key: "NYC Total", values: data});
                 }
             });
         }
@@ -296,8 +299,8 @@
 </br></br><img src="rank.png" width="80%">
 
     <p> Regarding the wage, there is no much difference when it comes to the entry level jobs except one occupation- management. Managers, who are the sixth largest group in NYC job market, have much higher wages even when they are just getting started. The wage ceilings are quite
-        different for each occupation. They generally goes into three bundles while lawyers and salespeople are having the most "robust potential".
-        While in general "office and administrative support" has most people working on, NYC has about 147 thousand home health aides(under "healthcare support" category), more than any other job titles. And it is offering the lowest income. </br> </br> <span> Explore it yourself! 👇 </span></p> </div>
+        different for each occupation. They generally go into three bundles while lawyers and salespeople are having the most "robust potential".
+        And home health aids, the job has most New Yorkers working on, is offering the lowest income. </br> </br> <span> Explore it yourself! 👇 </span></p> </div>
 
     <div class="slopegraph">
        <section id="slopegraph"></section>
@@ -380,7 +383,9 @@
         }());
 
     </script>
+    </div>
 
+    <div class="call"><p> Want to share your thoughts after the exploration? contact me 👉sulinjoanna[at]gmail.com </p> </div>
 <div class="method">
     <hr>
     Data source: New York State Department of Labor,<a href="https://labor.ny.gov/stats/lswage2.asp" target="blank"> Occupational Wages for the New York City Region. </a>  </br> </br>
@@ -390,8 +395,7 @@
    </a>
 
 
-</div>
-</div>
+</div></div>
 
 </body>
 </html>
