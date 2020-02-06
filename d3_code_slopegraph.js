@@ -9,7 +9,7 @@
 
         // input vars for getter setters
         var w = 1200,
-            h = 1200,
+            h = 2000,
             margin = {top: 30, bottom: 3000, left: 10, right: 10},
             strokeColour = 'black',
             // key data values start for left(axis) and end for right(axis)
@@ -38,12 +38,12 @@
                 // use same scale for both sides
                 var yScale = d3.scale.linear()
                     .domain([0, d3.max([keyValueStartMax, keyValueEndMax])])
-                    .range([1000 - margin.top, margin.bottom]);
+                    .range([2000 - margin.top, margin.bottom]);
 
                 var svg = d3.select(this).append('svg')
                     .attr({
                         width: w="1100",
-                        height: h="900"
+                        height: h="1800"
                     });
 
 
