@@ -32,9 +32,13 @@ body.span{
   font-size:12px;
 }
 
-.chart{
+.chart-web{
   padding-left:10em;
   padding-right:10em;
+}
+
+.chart-mobile{
+  display:none;
 }
 span{
   font-weight:bold;
@@ -181,4 +185,49 @@ rect.parent {
 
 .children:hover rect.child {
   fill: #eee;
+}
+
+@media only screen and (max-width: 420px) {
+
+  .content {
+    display: none
+  }
+
+  .wage {
+    display: none;
+  }
+
+  .slopegraph {
+    display: none;
+  }
+
+  .call {
+    display: none;
+  }
+
+  .method {
+    display: none;
+  }
+
+  .chart-web{
+    display:none;
+  }
+  .chart-mobile {
+    display:contents;
+    padding-left: 10em;
+    padding-right: 10em;
+  }
+
+
+  header {
+    padding-left: 2px;
+    font-size: 20px;
+    padding-top: 100px;
+  }
+
+  h2 {
+    font-size: 25px;
+  }
+
+
 }
