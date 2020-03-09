@@ -3,8 +3,8 @@
 <head>
   <title> Mapping NYC by jobs</title>
   <meta name="author" content="Sundar Singh| eesur.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8"/>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="main.css">
   <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
@@ -12,7 +12,7 @@
 <body>
 
     <header>
-        <h2> Mapping NYC: An Exploration Of Its Job Market   </h2>  <span>  by Joanna Lin Su <link </span></br><img src="bg.png" width="70%"> </header>
+        <h2> Mapping NYC: An Exploration Of Its Job Market   </h2>  <span>  by Joanna Lin Su </span> </header>
 
     <div class="content">
         <p> When Fitz Gerald first called NYC "the Big Apple", he probably didn't think about that the term would go this popular now. People are describing New
@@ -25,28 +25,29 @@
             <p>You may probably already have a good sense of how these jobs
                 locate geographically. But the size of each parts is still vague, neither does how much they earn. </p>
 
+        <div class="wage">
+            <p> <span> When grouped by occupations, these are among the top list.👇 </span></p>
+            </br></br><img src="rank.png" width="120%"> </div>
+
+
             <p> The following treemap is an experiment, through which it shows more than half of the total jobs are about business, professional, and services. While in general "office and administrative support" has most people working on, NYC has about 147 thousand home health aides(under the "healthcare support" category), more than any other job titles. As a
                 journalist, it is also surprising for me to see that the city has way fewer reporters and correspondents than personal relation specialists, editors, or even graphic designers. What about your industry?</p>
-              <p>
+              <p class="instruction"><b>
         Click to explore 4 million jobs in NYC. 👇</br>
-        How to play?</br>
-                  -By clicking on each block, you will get to know more about its subcategories.</br>
-        -By hovering on each block, you will get more information pumping out.</br>
-        -By clicking 'NYC Total', you will get back to previous layer.</br>
+        How to play? </b></br>
+                  -By <u><b> clicking</b></u> on each block, you will get to know more about its subcategories.</br>
+                  -By <u><b> hovering</b> </u> on each block, you will get more information pumping out.</br>
+                  -By <u><b> clicking</b> </u> 'NYC Total', you will get back to previous layer.</br>
     </p>
-    </div>
 
 
 
-    <iframe class="chart-web" width=1200 height=1000 src="treemap.html" frameborder=0>
+    <iframe class="chart-web" width=1600 height=1000 src="treemap.html" frameborder=0 allowfullscreen="">
     </iframe>
 
     <iframe class="chart-mobile" width=400 height=900 src="treemap2.html" frameborder=0>
     </iframe>
 
-   <div class="wage">
-       <p> <span> When grouped by occupations, these are among the top list.👇 </span></p>
-</br></br><img src="rank.png" width="80%">
 
     <p> Regarding to the wage, there is no much difference when it comes to the entry level jobs except one occupation- management. Managers, which is counted as the sixth largest group in NYC job market, have much higher wages even when they are just getting started. The wage ceilings are quite
         different for each occupation. They generally go into three bundles while lawyers and salespeople are having the most "robust potential".
@@ -60,12 +61,15 @@
         <nav id='nav-alt'></nav>
     </footer>
 
+    </div>
 
+    <div class="slopegraph">
     <!-- namespace -->
     <script> d3.eesur = {}; </script>
     <!-- reusable slopegraph -->
 
     <script src="d3_code_slopegraph.js"></script>
+
     <script>
 
         //  render slopegraph chart
@@ -75,12 +79,12 @@
 
             // create chart
             var slopegraph = d3.eesur.slopegraph()
-                .margin({top: 20, bottom: 20, left: 60, right:100})
+                .margin({top: 30, bottom: 30, left: 60, right:60})
                 .strokeColour('black')
                 .keyName('Occupation')
                 .keyValueStart('Entry')
                 .keyValueEnd('Experienced')
-                .h(1000)
+                //.h(400)
                 .format(d3.format('04d'))
                 .on('_hover', function (d, i) {
                     highlightLine(d, i);
@@ -128,24 +132,25 @@
             }
 
             // just for blocks viewer size
-            //d3.select(self.frameElement).style('height', '800px');
+            d3.select(self.frameElement).style('height', '800px');
 
         }());
 
     </script>
+
     </div>
 
-    <div class="call"><p> Want to share your thoughts after the exploration? contact me 👉sulinjoanna[at]gmail.com </p> </div>
-<div class="method">
+    <div class="method">
     <hr>
-    Data source: New York State Department of Labor,<a href="https://labor.ny.gov/stats/lswage2.asp" target="blank"> Occupational Wages for the New York City Region. </a>  </br> </br>
+   <p> Data source: New York State Department of Labor,<a href="https://labor.ny.gov/stats/lswage2.asp" target="blank"> Occupational Wages for the New York City Region. </a>  </br> </br>
     Data parsing includes: combining and calculating the "N/A"s; grouping occupations based on the codes; transferring csv file into json.</br></br>
     Visualization packages: <a href="http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022" target="blank"> Zoomable D3.js Treemap</a> and <a href="http://bl.ocks.org/eesur/a4679ee453aa9357977c" target="blank"> Reusable Slopegraph </a>
-    </br> </br> <a href="https://joannalinsu.github.io/"> More about me </a>
-   </a>
+    </br> </br> <a href="https://joannalinsu.github.io/"> More about me  </a> </p>
 
 
-</div></div>
+</div>
+</div>
+
 
 </body>
 </html>

@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Treemap</title>
     <link rel="stylesheet" href="main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 </head>
+
 
     <body>
     <div id="chart">
@@ -75,7 +76,7 @@
     .attr("class", "grandparent");
 
     grandparent.append("rect")
-    .attr("y", -margin.top)
+    .attr("y", margin.top)
     .attr("width", width)
     .attr("height", margin.top);
 
@@ -199,7 +200,7 @@
     return d.key;
     });
     t.append("tspan")
-    .attr("dy", "1.0em")
+    .attr("dy", "2em")
     .text(function (d) {
     return formatNumber(d.value);
     });

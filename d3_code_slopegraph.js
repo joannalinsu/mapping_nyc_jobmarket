@@ -10,7 +10,7 @@
         // input vars for getter setters
         var w = 1200,
             h = 2000,
-            margin = {top: 30, bottom: 3000, left: 10, right: 10},
+            margin = {top: 30, bottom: 30, left: 10, right: 10},
             strokeColour = 'black',
             // key data values start for left(axis) and end for right(axis)
             keyValueStart = '',
@@ -20,7 +20,6 @@
             format = d3.format('');
 
         var dispatch = d3.dispatch('_hover');
-
 
         function exports(_selection) {
             _selection.each(function(data) {
@@ -38,12 +37,12 @@
                 // use same scale for both sides
                 var yScale = d3.scale.linear()
                     .domain([0, d3.max([keyValueStartMax, keyValueEndMax])])
-                    .range([2000 - margin.top, margin.bottom]);
+                    .range([1500 - margin.top, margin.bottom]);
 
                 var svg = d3.select(this).append('svg')
                     .attr({
-                        width: w="1100",
-                        height: h="1800"
+                        width: w="1300",
+                        height: h="1400"
                     });
 
 
@@ -54,8 +53,8 @@
                     .attr({
                         x1: margin.left +50,
                         x2: w - margin.right-450,
-                        y1: function(d) { return yScale(d[keyValueStart]); },
-                        y2: function(d) { return yScale(d[keyValueEnd]); },
+                        y1: function(d) { return yScale(d[keyValueStart])+20; },
+                        y2: function(d) { return yScale(d[keyValueEnd])+20; },
                         stroke: strokeColour,
                         'stroke-width': 1,
                         class: function (d, i) { return 's-line elm ' + 'sel-' + i; }
@@ -69,7 +68,7 @@
                     .attr({
                         class: function (d, i) { return 'r-labels elm ' + 'sel-' + i; },
                         x: w - margin.right-450,
-                        y: function(d) { return yScale(d[keyValueEnd]) + 5; },
+                        y: function(d) { return yScale(d[keyValueEnd]) + 30; },
                     })
                     .text(function (d) {
                         return d[keyName] + ' ' + format(d[keyValueEnd]);
@@ -84,7 +83,7 @@
                     .attr({
                         class: function (d, i) { return 'l-labels elm ' + 'sel-' + i; },
                         x: margin.left +50,
-                        y: function(d) { return yScale(d[keyValueStart]) + 5; }
+                        y: function(d) { return yScale(d[keyValueStart]) + 30; }
                     })
                     .text(function (d) {
                         return format(d[keyValueStart]);
@@ -96,7 +95,7 @@
                     .attr({
                         class: 's-title',
                         x: margin.left + 80,
-                        y: margin.top/2
+                        y: margin.top/1.5
                     })
                     .text(keyValueStart + ' ↓')
                     .style('text-anchor','end');
@@ -105,7 +104,7 @@
                     .attr({
                         class: 's-title',
                         x: w - margin.right-450,
-                        y: margin.top/2
+                        y: margin.top/1.5
                     })
                     .text('↓ ' + keyValueEnd)
                     .style('text-anchor','start');

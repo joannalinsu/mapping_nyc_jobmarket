@@ -1,211 +1,197 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
 
 
-body {
-  position: absolute;
-  color: #130C0E;
-  background-color: #eee;
-  font-family: "Source Code Pro", Consolas, monaco, monospace;
-  line-height: 1.5;
-  width:100%;
-}
+@media only screen and (max-width: 2200px) {
+  body {
+    position: absolute;
+    color: #130C0E;
+    font-family: AtlasGrotesk, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 36px;
+    width: 100%;
+  }
 
-h2{
-  font-size:30px;
-}
+  h2 {
+    font-size: 40px;
+  }
 
-body.span{
-  font-weight:200;
-}
 
-.call p{
-  padding-left:10em;
-  padding-right:10em;
-  padding-top:10em;
-}
+  .method {
+    color: grey;
+    padding-top:5em;
+    padding-left: 15em;
+    padding-right: 15em;
+    font-size: 20px;
+  }
 
-.method{
-  color:grey;
-  padding-left:15em;
-  padding-right:15em;
-  font-size:12px;
-}
 
-.chart-web{
-  padding-left:5em;
-  padding-right:5em;
-}
+  .chart-mobile {
+    display: none;
+  }
 
-.chart-mobile{
-  display:none;
-}
-span{
-  font-weight:bold;
-}
+  span {
+    font-weight: bold;
+    font-size:25px;
+  }
 
-p {
-  padding-top:30px;
-  padding-left:10px;
-  padding-right:10px;
-  font-size: 18px;
-  max-width: 1000px;
-}
+  p {
+    padding-top: 30px;
+    font-size: 24px;
+  }
 
-header{
-  padding-top:40px;
-  padding-left:15em;
-}
-.content{
-  padding-left:10em;
-  padding-right:10em;
-
-}
-.wage {
-  margin-top:150px;
-  padding-left:10em;
-  padding-right:10em;
-  font-size: 18px;
-  max-width: 1000px;
+  p .instruction{
   position:center;
+  }
 
-}
+  header {
+    padding-top: 40px;
+    text-align: center;
+  }
 
-#slopegraph {
-  padding-top: 100px;
-}
+  .content {
+    padding-left: 20em;
+    padding-right: 20em;
 
-#slopegraph text{
-  font-size:16px;
-}
+  }
 
-.slopegraph{
-  padding-left:100px;
-}
+  .wage {
+    margin-top: 100px;
+    font-size: 18px;
+    width: 80%;
+    text-align: center;
+  }
 
-footer {
-  position: relative;
-}
-.l-labels, .r-labels {
-  font-size: 14px;
-}
-#reset {
-  font-size: 14px;
-  background: #130C0E;
-  color: #7AC143;
-  position: absolute;
-  border: none;
-  outline:none;
-  padding: 5px 8px;
-  letter-spacing: 1px;
-  left: 0;
-}
+  iframe {
+    width: 140%;
+  }
 
-#reset:hover {
-  background: #7AC143;
-  color: #130C0E;
-}
-#nav-alt ul {
-  list-style: none;
-  margin-left: 80px;
-}
-#nav-alt ul li {
-  display:inline-block;
-  padding: 4px 4px;
-  background: #FDBB30;
-  cursor: pointer;
-  font-size: 14px;
-  margin-right: 1px;
-}
-#nav-alt ul li:hover {
-  background: #7AC143;
-}
-text.s-title {
-  fill: #130C0E;
-  letter-spacing: 1px;
-  padding-left:10px;
-}
+  #slopegraph {
+  }
 
-#chart {
-  font-family:"Source Code Pro", Consolas, monaco, monospace;
-  font-size:0.7em;
-  padding-left:4em;
-}
+  #slopegraph text {
+    font-size: 24px;
+  }
 
-.title {
-  font-weight: bold;
-  font-size: 10px;
-  margin-top: 6px;
-  margin-left:110px;
-  margin-bottom: 20px;
-}
-.title p{
-  margin-left:60px;
-}
-text {
-  pointer-events:none;
-}
+  .slopegraph {
+    padding-left: 260px;
+  }
 
-.grandparent text {
-  font-weight: bold;
-  font-size:15px;
-}
+  footer {
+    position: relative;
+  }
 
-rect {
-  fill: none;
-  stroke: #fff;
-}
+  .l-labels, .r-labels {
+    font-size: 14px;
+  }
 
-rect.parent,
-.grandparent rect {
-  stroke-width: 2px;
-}
+  #reset {
+    font-size: 20px;
+    background: #130C0E;
+    color: #7AC143;
+    position: absolute;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    letter-spacing: 1px;
+    left: 0;
+  }
 
-rect.parent {
-  pointer-events: none;
-}
+  #reset:hover {
+    background: #7AC143;
+    color: #130C0E;
+  }
 
-.grandparent rect {
-  fill: #eee;
-}
+  #nav-alt ul {
+    list-style: none;
+    margin-left: 80px;
+  }
 
-.grandparent:hover rect {
-  fill: #eee;
-}
+  #nav-alt ul li {
+    display: inline-block;
+    padding: 4px 4px;
+    background: #FDBB30;
+    font: cursor: pointer;
+    font-size: 24px;
+    margin-right: 1px;
+  }
 
-.children rect.parent,
-.grandparent rect {
-  cursor: pointer;
-}
+  #nav-alt ul li:hover {
+    background: #7AC143;
+  }
 
-.children rect.parent {
-  fill: #eee;
-  fill-opacity: .7;
-}
+  text.s-title {
+    fill: #130C0E;
+    letter-spacing: 1px;
+    padding-left: 10px;
+  }
 
-.children:hover rect.child {
-  fill: #eee;
+  #chart {
+    font-family: AtlasGrotesk, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 6px;
+    margin-left: 110px;
+    margin-bottom: 20px;
+  }
+
+  .title p {
+    margin-left: 60px;
+  }
+
+  text {
+    pointer-events: none;
+  }
+
+  .grandparent text {
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  rect {
+    fill: none;
+    stroke: #fff;
+  }
+
+  rect.parent,
+  .grandparent rect {
+    stroke-width: 2px;
+    fill:#eee;
+  }
+
+  rect.parent {
+    pointer-events: none;
+  }
+
+  .grandparent rect {
+    height:30px;
+    padding-bottom:50px;
+  }
+
+  .grandparent:hover rect {
+  }
+
+  .children rect.parent,
+  .grandparent rect {
+    cursor: pointer;
+  }
+
+  .children rect.parent {
+    fill-opacity: .7;
+  }
+
+  .children:hover rect.child {
+  }
+
 }
 
 @media only screen and (max-width: 420px) {
 
-  .content {
-    display: none
-  }
-
-  .wage {
-    display: none;
-  }
-
-  .slopegraph {
-    display: none;
-  }
-
-  .call {
-    display: none;
-  }
-
-  .method {
-    display: none;
+  body{
+    position: absolute;
+    width:250%;
   }
 
   .chart-mobile{
@@ -213,7 +199,6 @@ rect.parent {
     padding-left:0;
 
   }
-
 
   .chart-web{
     display:none;
@@ -227,17 +212,18 @@ rect.parent {
 
   p{
   font-size:10px;
-  padding-left:5em;
 }
 
   header {
-    padding-left: 5em;
     font-size: 15px;
-    padding-top: 100px;
   }
 
   h2 {
-    font-size: 25px;
+    font-size: 15px;
   }
 
+
+  .slopegraph{
+    font-size:10px;
+  }
 }
