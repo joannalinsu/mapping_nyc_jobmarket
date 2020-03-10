@@ -30,7 +30,7 @@
 
   span {
     font-weight: bold;
-    font-size:25px;
+    font-size:20px;
   }
 
   p {
@@ -68,7 +68,7 @@
   }
 
   #slopegraph text {
-    font-size: 24px;
+    font-size: 18px;
   }
 
   .slopegraph {
@@ -84,7 +84,7 @@
   }
 
   #reset {
-    font-size: 20px;
+    font-size: 18px;
     background: #130C0E;
     color: #7AC143;
     position: absolute;
